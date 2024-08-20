@@ -214,7 +214,6 @@ export type Alpha2Code =
   | "LI"
   | "LT"
   | "LU"
-  | "MO"
   | "MG"
   | "MW"
   | "MY"
